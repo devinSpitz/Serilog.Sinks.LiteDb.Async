@@ -92,6 +92,7 @@ References:
 - Newtonsoft.Json - [https://github.com/JamesNK/Newtonsoft.Json#](https://github.com/JamesNK/Newtonsoft.Json#)
 - Serilog - [https://github.com/serilog/serilog#](https://github.com/serilog/serilog#)
 
+I started with [https://github.com/saleem-mirza/serilog-sinks-sqlite](https://github.com/saleem-mirza/serilog-sinks-sqlite) and adapted it to liteDb.Async.
 
 Where to use it ?
 =======
