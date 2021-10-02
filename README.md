@@ -45,7 +45,7 @@ in the Program.cs:
 
 
 ```
-And 
+And
 
 ```C#
         public static IHostBuilder CreateHostBuilder(string[] args) =>
@@ -87,18 +87,15 @@ For business inquiries please use:
 
 References:
 =======
-- LiteDB.Identity - [https://github.com/quicksln/LiteDB.Identity#](https://github.com/quicksln/LiteDB.Identity#)
-- Async Wrapper - [https://github.com/mlockett42/litedb-asyncc#](https://github.com/mlockett42/litedb-async#)
-- LiteDB - [https://www.litedb.org/](https://www.litedb.org/)
-- LiteDB Github - [https://github.com/mbdavid/LiteDB](https://github.com/mbdavid/LiteDB)
-- AspNetCore Identity - [Introduction](https://docs.microsoft.com/en-us/aspnet/core/security/authentication/identity?view=aspnetcore-3.1&tabs=visual-studio)
-- AspNetCore Github - [https://github.com/dotnet/aspnetcore/tree/master/src/Identity](https://github.com/dotnet/aspnetcore/tree/master/src/Identity)
+- LiteDB - [https://github.com/quicksln/LiteDB#](https://github.com/quicksln/LiteDB#)
+- Async LiteDb - [https://github.com/mlockett42/litedb-async#](https://github.com/mlockett42/litedb-async#)
+- Newtonsoft.Json - [https://github.com/JamesNK/Newtonsoft.Json#](https://github.com/JamesNK/Newtonsoft.Json#)
+- Serilog - [https://github.com/serilog/serilog#](https://github.com/serilog/serilog#)
 
 
 Where to use it ?
 =======
 - Great for small and medium size AspNetCore Websites,
-- Quick implementation of Authentication and Authorization mechanism for WebAPIs.
 
 License
 =======

@@ -8,15 +8,13 @@
         <PackageTags>serilog;logging;LiteDb;Async</PackageTags>
         <PackageProjectUrl>https://github.com/devinSpitz/Serilog.Sinks.LiteDb.Async</PackageProjectUrl>
         <RepositoryUrl>https://github.com/devinSpitz/Serilog.Sinks.LiteDb.Async</RepositoryUrl>
-        <AssemblyVersion>0.0.1.0</AssemblyVersion>
-        <Version>0.0.1</Version>
         <SignAssembly>True</SignAssembly>
         <AssemblyOriginatorKeyFile>Serilog.snk</AssemblyOriginatorKeyFile>
         <TargetFrameworks>netstandard2.0</TargetFrameworks>
         <PackageLicenseExpression>MIT</PackageLicenseExpression>
-        <FileVersion>0.0.1.0</FileVersion>
         <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
         <RootNamespace>Serilog.Sinks.LiteDb.Async</RootNamespace>
+        <PackageVersion>0.0.2</PackageVersion>
     </PropertyGroup>
     <ItemGroup>
         <None Include="..\..\LICENSE">
