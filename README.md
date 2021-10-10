@@ -1,3 +1,6 @@
+[![NuGet latest version](https://badgen.net/nuget/v/Serilog.Sinks.LiteDb.Async/latest)](https://www.nuget.org/packages/Serilog.Sinks.LiteDb.Async/)
+
+
 # Serilog.Sinks.LiteDb.Async
 A lightweight high performance Serilog sink that writes to LiteDb database.
 
