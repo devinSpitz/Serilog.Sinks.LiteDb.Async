@@ -1,3 +1,4 @@
+[![CodeFactor](https://www.codefactor.io/repository/github/devinspitz/Serilog.Sinks.LiteDb.Async/badge)](https://www.codefactor.io/repository/github/devinspitz/Serilog.Sinks.LiteDb.Async)
 [![NuGet stable version](https://badgen.net/nuget/v/Serilog.Sinks.LiteDb.Async)](https://nuget.org/packages/Serilog.Sinks.LiteDb.Async)
 
 # Serilog.Sinks.LiteDb.Async
