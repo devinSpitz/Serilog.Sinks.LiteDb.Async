@@ -1,5 +1,8 @@
 [![CodeFactor](https://www.codefactor.io/repository/github/devinspitz/Serilog.Sinks.LiteDb.Async/badge)](https://www.codefactor.io/repository/github/devinspitz/Serilog.Sinks.LiteDb.Async)
 [![NuGet stable version](https://badgen.net/nuget/v/Serilog.Sinks.LiteDb.Async)](https://nuget.org/packages/Serilog.Sinks.LiteDb.Async)
+[![Discord](https://badgen.net/discord/members/G5VpbgdYey)](http://dc.spitzen.solutions)
+
+
 
 # Serilog.Sinks.LiteDb.Async
 A lightweight high performance Serilog sink that writes to LiteDb database.
